@@ -1,0 +1,15 @@
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\obj\Debug\net6.0\Assignement Day-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\obj\Debug\net6.0\Assignement Day-3.AssemblyInfoInputs.cache
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\obj\Debug\net6.0\Assignement Day-3.AssemblyInfo.cs
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\obj\Debug\net6.0\Assignement Day-3.csproj.CoreCompileInputs.cache
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\obj\Debug\net6.0\Assignement Day-3.sourcelink.json
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\bin\Debug\net6.0\Assignement Day-3.exe
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\bin\Debug\net6.0\Assignement Day-3.deps.json
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\bin\Debug\net6.0\Assignement Day-3.runtimeconfig.json
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\bin\Debug\net6.0\Assignement Day-3.dll
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\bin\Debug\net6.0\Assignement Day-3.pdb
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\obj\Debug\net6.0\Assignement Day-3.dll
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\obj\Debug\net6.0\refint\Assignement Day-3.dll
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\obj\Debug\net6.0\Assignement Day-3.pdb
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\obj\Debug\net6.0\Assignement Day-3.genruntimeconfig.cache
+C:\Desktop\Rps-Wipro\DotNet\C# Assignments\Assignement Day-3\Assignement Day-3\obj\Debug\net6.0\ref\Assignement Day-3.dll
